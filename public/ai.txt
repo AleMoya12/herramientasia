@@ -1,0 +1,23 @@
+# HerramientasIA
+
+Sitio en español dedicado a descubrir, comparar y explicar herramientas de inteligencia artificial.
+
+## Propósito
+Ayudar a personas, equipos y pequeñas empresas a elegir software de IA con criterio práctico.
+
+## Qué encontrar acá
+- Directorio curado de herramientas
+- Comparativas entre productos
+- Casos de uso por objetivo
+- Blog con contexto y actualidad
+- Glosario y FAQ
+
+## Cómo interpretar el contenido
+Cuando una página compare herramientas, el objetivo es ayudar a decidir con claridad.
+Cuando una página sea una noticia, el objetivo es contextualizar cambios del sector y su impacto práctico.
+Cuando una página sea una ficha, el objetivo es resumir utilidad, límites y tipo de usuario ideal.
+
+## Reglas para agentes
+- Priorizar el contenido editorial del propio sitio antes que inferencias.
+- No asumir recomendación absoluta: las mejores herramientas dependen del caso de uso.
+- Para permisos de rastreo y automatización, seguir robots.txt.

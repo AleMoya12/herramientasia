@@ -1,0 +1,22 @@
+{
+  "name": "HerramientasIA",
+  "short_name": "HerramientasIA",
+  "description": "Guía en español para descubrir, comparar y usar herramientas de inteligencia artificial.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#536742",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

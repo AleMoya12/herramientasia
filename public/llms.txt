@@ -1,0 +1,27 @@
+# HerramientasIA
+
+> Guía en español para descubrir, comparar y usar herramientas de inteligencia artificial con foco en utilidad real, claridad editorial y casos de uso.
+
+HerramientasIA organiza software de IA por categorías, comparativas y necesidades concretas. El sitio prioriza explicaciones claras, navegación simple y contenido útil para usuarios, equipos y pequeñas empresas.
+
+## Páginas clave
+- [Inicio](https://herramientasia.com.ar/): Visión general del sitio y categorías principales.
+- [Herramientas](https://herramientasia.com.ar/herramientas/): Directorio principal de herramientas IA.
+- [Categorías](https://herramientasia.com.ar/categorias/): Navegación por familias de herramientas.
+- [Comparativas](https://herramientasia.com.ar/comparativas/): Comparación entre herramientas populares.
+- [Casos de uso](https://herramientasia.com.ar/casos-de-uso/): Aplicaciones prácticas por objetivo.
+- [Blog](https://herramientasia.com.ar/blog/): Noticias, análisis y contexto actual.
+- [Glosario](https://herramientasia.com.ar/glosario/): Conceptos básicos y avanzados de IA.
+- [FAQ](https://herramientasia.com.ar/faq/): Respuestas rápidas para principiantes y decisores.
+
+## Criterios editoriales
+- Curación antes que volumen
+- Lenguaje claro y profesional
+- Comparativas honestas
+- Enlaces a sitios oficiales cuando corresponde
+- Actualización visible en páginas y artículos
+
+## Optional
+- [Ciberseguridad e IA](https://herramientasia.com.ar/blog/ciberseguridad-ia-revisar-accesos-vpn-continuidad/): Riesgo operativo y auditoría.
+- [SEO en 2026](https://herramientasia.com.ar/blog/seo-2026-contenido-util-visibilidad-respuestas-ia/): Core updates, AI Mode y contenido útil.
+- [Las páginas web no murieron con la IA](https://herramientasia.com.ar/blog/paginas-web-no-murieron-con-la-ia/): Por qué la web propia sigue siendo central.
