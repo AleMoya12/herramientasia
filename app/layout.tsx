@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   applicationName: site.name,
   manifest: "/site.webmanifest",
+  verification: {
+    google: "4MwsSrO57ChFIOu7SoBGj4BknGW66QvXJxu2o8Cjcns"
+  },
   icons: {
     icon: [
       { url: "/favicon.ico" },
